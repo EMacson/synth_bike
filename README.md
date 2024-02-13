@@ -46,6 +46,16 @@ Supercollider will now be receiving information from the Arduino which will dete
 - Look Mum No Computer: https://www.youtube.com/@LOOKMUMNOCOMPUTER
 - Look Mum No Computer, Synth Bike: https://youtu.be/LWqImNULtao?si=kBdLbUSQCMWFtvKq
 
+  syverlauritzsen. Capacitive Sensing for Dummies. Retrieved February 12, 2024 from https://www.instructables.com/Capacitive-Sensing-for-Dummies/
+  Elliot Williams. 2015. CONJURING CAPACITIVE TOUCH SENSORS FROM PAPER AND ALUMINUM FOIL. (November 2015). Retrieved February 10, 2024 from https://hackaday.com/2015/11/30/conjuring-capacitive-touch-sensors-from-paper-and-aluminum-foil/
+  Eli Fieldsteel. 2015. SuperCollider Tutorial: 15. Composing a Piece, Part I. (August 2015). Retrieved February 10, 2024 from https://youtu.be/lGs7JOOVjag?si=L9rw8zBRUCwIuvLn 
+
+Eli Fieldsteel. 2015. SuperCollider Tutorial: 15. Composing a Piece, Part I. (August 2015). Retrieved February 10, 2024 from https://youtu.be/lGs7JOOVjag?si=L9rw8zBRUCwIuvLn 
+Eli Fieldsteel. 2017. SuperCollider Tutorial: 19. Arduino. (August 2017). Retrieved February 10, 2024 from https://www.youtube.com/watch?v=_NpivsEva5o 
+Elliot Williams. 2015. CONJURING CAPACITIVE TOUCH SENSORS FROM PAPER AND ALUMINUM FOIL. (November 2015). Retrieved February 10, 2024 from https://hackaday.com/2015/11/30/conjuring-capacitive-touch-sensors-from-paper-and-aluminum-foil/ 
+LOOK MUM NO COMPUTER. 2016. SYNTH BIKE 2.0 SYNTHESISER LOOK MUM NO COMPUTER. (November 2016). Retrieved February 4, 2024 from https://youtu.be/LWqImNULtao?si=kBdLbUSQCMWFtvKq 
+syverlauritzsen. Capacitive Sensing for Dummies. Retrieved February 12, 2024 from https://www.instructables.com/Capacitive-Sensing-for-Dummies/ 
+
 ### Image Sources from Video
 -	https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DURIYLoMNSgk&psig=AOvVaw292t1762k1FRcX2QLYiF8s&ust=1707877331913000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPjq3f-gp4QDFQAAAAAdAAAAABAR
 -	https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.avshop.ca%2Frecording-recording-software%2Fwaves-element-2-0-virtual-analog-synth-plug-in-download&psig=AOvVaw292t1762k1FRcX2QLYiF8s&ust=1707877331913000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPjq3f-gp4QDFQAAAAAdAAAAABAW
