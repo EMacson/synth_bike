@@ -19,10 +19,20 @@ https://youtu.be/NMW0AqCcAnw
 The components for this project are
 - an Arduino
 - 4 aluminum foil capacitive touch sensors
-- 4 10k ohm resistors
-- 1 1M ohm resistor
+- 1 1M ohm resistors
+- 1 10k ohm resistor
 - 1 photoresistor
 - Supercollider IDE 
+
+To run the code, import the supercollider code into the supercollider IDE and then run the following commands
+- ~port = SerialPort.new("COM5", 115200); // ensure that the port matches the the port you connected your Arduino to
+- s.boot;
+- run the ~getValues routine
+- run the synth definition
+- ~synth = Synth(\saw, [\cutoff, ~val]); // ~val is the result from the Arduino
+- run the ~control routine
+
+Supercollider will now be receiving information from the Arduino which will determine the cutoff limit for the synth.
 
 ## References
 ### Tutorials Used for the Project
