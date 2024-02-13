@@ -3,7 +3,7 @@
 ## Concept
 
 ## Circuit Schema
-<img src="./images/circuit.jpg" alt="Circuit Schema" />
+<img src="./images/circuit.png" alt="Circuit Schema" />
 
 ## Photos
 
