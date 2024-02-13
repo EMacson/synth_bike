@@ -1,4 +1,4 @@
-# synth_bike
+# Synth Bike
 
 ## Concept
 when starting this project i was initially wanting to create some kind of synth instrument. Specifically, I was wanting to go very analog and build a synth with as little digital elements as possible. This intent was inspired by I video I saw of Jack White (leader/guitarist for the White Strips) build a simple one-string guitar out of some wire and a piece of 2x4, and I wanted to replicate this process witha synth. This led me down the rabbit hole of DIY analog synth making (which has a surprisingly big online community). In this rabbit hole I discovered a youtuber by the name of Look Mum No Computer, a channel run by Sam Battle. Battle has a lot of excellent tutorials how build synths and the different kinds of synth (such as a saw-tooth versus square-wave synth). He also has quite a lot of interesting projects that he has built which I began looking into. It was in a video where Battle was discussing his favorite projects when I saw his synth bike. This bike had what can only be described as an airplane control panel on its handle bar that Battle could ride around on playing unique sounds. I was immediately intrigued and wanted to try and build my own version of the bike. So, for better or worse I started watching I stopped watching Battle's video before he could explain his design and build process for the bike and began my own (I to take the initial inspiration from Battle, but realize the implementation of the bike without his influence).
@@ -11,6 +11,11 @@ For more information of how to build and run the project, check the circuit sche
 <img src="./images/circuit.png" alt="Circuit Schema" />
 
 ## Photos
+<img src="./images/IMG_3563.jpg" alt="" />
+<img src="./images/IMG_3564.jpg" alt="" />
+<img src="./images/IMG_3593.jpg" alt="" />
+<img src="./images/IMG_3593.jpg" alt="" />
+<img src="./images/IMG_3591.jpg" alt="" />
 
 ## Video Explanation and Demo
 https://youtu.be/NMW0AqCcAnw
@@ -24,7 +29,7 @@ The components for this project are
 - 1 photoresistor
 - Supercollider IDE 
 
-To run the code, import the supercollider code into the supercollider IDE and then run the following commands
+To run the code, import the Arduino code onto your Arduino, and import the supercollider code into the supercollider IDE and then run the following commands
 - ~port = SerialPort.new("COM5", 115200); // ensure that the port matches the the port you connected your Arduino to
 - s.boot;
 - run the ~getValues routine
