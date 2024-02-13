@@ -14,7 +14,6 @@ For more information of how to build and run the project, check the circuit sche
 <img src="./images/IMG_3563.jpg" alt="" />
 <img src="./images/IMG_3564.jpg" alt="" />
 <img src="./images/IMG_3593.jpg" alt="" />
-<img src="./images/IMG_3593.jpg" alt="" />
 <img src="./images/IMG_3591.jpg" alt="" />
 
 ## Video Explanation and Demo
