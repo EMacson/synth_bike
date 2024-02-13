@@ -40,27 +40,15 @@ Supercollider will now be receiving information from the Arduino which will dete
 
 ## References
 ### Tutorials Used for the Project
-- Capacitive Touch Sensor: https://www.instructables.com/Capacitive-Sensing-for-Dummies/, https://hackaday.com/2015/11/30/conjuring-capacitive-touch-sensors-from-paper-and-aluminum-foil/
-- Supercollider, Composition: https://youtu.be/lGs7JOOVjag?si=L9rw8zBRUCwIuvLn
-- Supercollider, Arduino: https://www.youtube.com/watch?v=_NpivsEva5o
-- Look Mum No Computer: https://www.youtube.com/@LOOKMUMNOCOMPUTER
-- Look Mum No Computer, Synth Bike: https://youtu.be/LWqImNULtao?si=kBdLbUSQCMWFtvKq
-
 - Eli Fieldsteel. 2015. SuperCollider Tutorial: 15. Composing a Piece, Part I. (August 2015). Retrieved February 10, 2024 from https://youtu.be/lGs7JOOVjag?si=L9rw8zBRUCwIuvLn
 - Eli Fieldsteel. 2017. SuperCollider Tutorial: 19. Arduino. (August 2017). Retrieved February 10, 2024 from https://www.youtube.com/watch?v=_NpivsEva5o
 - Elliot Williams. 2015. CONJURING CAPACITIVE TOUCH SENSORS FROM PAPER AND ALUMINUM FOIL. (November 2015). Retrieved February 10, 2024 from https://hackaday.com/2015/11/30/conjuring-capacitive-touch-sensors-from-paper-and-aluminum-foil/
 - LOOK MUM NO COMPUTER. 2016. SYNTH BIKE 2.0 SYNTHESISER LOOK MUM NO COMPUTER. (November 2016). Retrieved February 4, 2024 from https://youtu.be/LWqImNULtao?si=kBdLbUSQCMWFtvKq
 - syverlauritzsen. Capacitive Sensing for Dummies. Retrieved February 12, 2024 from https://www.instructables.com/Capacitive-Sensing-for-Dummies/
 
-Eli Fieldsteel. 2015. SuperCollider Tutorial: 15. Composing a Piece, Part I. (August 2015). Retrieved February 10, 2024 from https://youtu.be/lGs7JOOVjag?si=L9rw8zBRUCwIuvLn 
-Eli Fieldsteel. 2017. SuperCollider Tutorial: 19. Arduino. (August 2017). Retrieved February 10, 2024 from https://www.youtube.com/watch?v=_NpivsEva5o 
-Elliot Williams. 2015. CONJURING CAPACITIVE TOUCH SENSORS FROM PAPER AND ALUMINUM FOIL. (November 2015). Retrieved February 10, 2024 from https://hackaday.com/2015/11/30/conjuring-capacitive-touch-sensors-from-paper-and-aluminum-foil/ 
-LOOK MUM NO COMPUTER. 2016. SYNTH BIKE 2.0 SYNTHESISER LOOK MUM NO COMPUTER. (November 2016). Retrieved February 4, 2024 from https://youtu.be/LWqImNULtao?si=kBdLbUSQCMWFtvKq 
-syverlauritzsen. Capacitive Sensing for Dummies. Retrieved February 12, 2024 from https://www.instructables.com/Capacitive-Sensing-for-Dummies/ 
-
 ### Image Sources from Video
--	https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DURIYLoMNSgk&psig=AOvVaw292t1762k1FRcX2QLYiF8s&ust=1707877331913000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPjq3f-gp4QDFQAAAAAdAAAAABAR
--	https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.avshop.ca%2Frecording-recording-software%2Fwaves-element-2-0-virtual-analog-synth-plug-in-download&psig=AOvVaw292t1762k1FRcX2QLYiF8s&ust=1707877331913000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPjq3f-gp4QDFQAAAAAdAAAAABAW
--	https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lookmumnocomputer.com%2F&psig=AOvVaw1eN6s6--0iGha19RbyBGnA&ust=1707877473988000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODrusOhp4QDFQAAAAAdAAAAABAE
--	https://www.google.com/url?sa=i&url=https%3A%2F%2Fsoundcloud.com%2Flookmumnocomputer%2Fsets%2Fhuman-procrastination&psig=AOvVaw1eN6s6--0iGha19RbyBGnA&ust=1707877473988000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODrusOhp4QDFQAAAAAdAAAAABAI
--	https://images.squarespace-cdn.com/content/v1/5912db7ee6f2e1435dbab4fd/1497604689762-1UIZEV74DZE8JROGDCVK/look+mum+no+computer+live?format=2500w
+- AVShop. WAVES ELEMENT 2.0 VIRTUAL ANALOG SYNTH PLUG-IN. Retrieved February 12, 2024 from https://www.avshop.ca/recording-recording-software/waves-element-2-0-virtual-analog-synth-plug-in-download
+- Metalworks Institute. 2012. Analog Synth Demonstration - Keyboard Tutorial. Retrieved February 12, 2024 from https://www.youtube.com/watch?v=URIYLoMNSgk 
+- Sam Battle. Bio. Retrieved February 12, 2024 from https://images.squarespace-cdn.com/content/v1/5912db7ee6f2e1435dbab4fd/1497604689762-1UIZEV74DZE8JROGDCVK/look+mum+no+computer+live?format=2500w
+- Sam Battle. Homepage. Retrieved February 12, 2024 from https://www.lookmumnocomputer.com
+- Sam Battle. LOOK MUM NO COMPUTER. Retrieved February 12, 2024 from https://soundcloud.com/lookmumnocomputer/sets/human-procrastination
