@@ -7,8 +7,16 @@
 ## Photos
 
 ## Video Explanation and Demo
+https://youtu.be/NMW0AqCcAnw
 
 ## Functionality
+The components for this project are
+- an Arduino
+- 4 aluminum foil capacitive touch sensors
+- 4 10k ohm resistors
+- 1 1M ohm resistor
+- 1 photoresistor
+- Supercollider IDE 
 
 ## References
 ### Tutorials Used for the Project
