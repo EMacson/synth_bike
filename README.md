@@ -18,6 +18,7 @@ For more information of how to build and run the project, check the circuit sche
 
 ## Video Explanation and Demo
 https://youtu.be/NMW0AqCcAnw
+[![IMAGE ALT TEXT HERE](./images/IMG_3593.jpg)](https://youtu.be/NMW0AqCcAnw)
 
 ## Functionality
 The components for this project are
