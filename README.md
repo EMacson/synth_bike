@@ -46,9 +46,11 @@ Supercollider will now be receiving information from the Arduino which will dete
 - Look Mum No Computer: https://www.youtube.com/@LOOKMUMNOCOMPUTER
 - Look Mum No Computer, Synth Bike: https://youtu.be/LWqImNULtao?si=kBdLbUSQCMWFtvKq
 
-  syverlauritzsen. Capacitive Sensing for Dummies. Retrieved February 12, 2024 from https://www.instructables.com/Capacitive-Sensing-for-Dummies/
+  Eli Fieldsteel. 2015. SuperCollider Tutorial: 15. Composing a Piece, Part I. (August 2015). Retrieved February 10, 2024 from https://youtu.be/lGs7JOOVjag?si=L9rw8zBRUCwIuvLn
+  Eli Fieldsteel. 2017. SuperCollider Tutorial: 19. Arduino. (August 2017). Retrieved February 10, 2024 from https://www.youtube.com/watch?v=_NpivsEva5o
   Elliot Williams. 2015. CONJURING CAPACITIVE TOUCH SENSORS FROM PAPER AND ALUMINUM FOIL. (November 2015). Retrieved February 10, 2024 from https://hackaday.com/2015/11/30/conjuring-capacitive-touch-sensors-from-paper-and-aluminum-foil/
-  Eli Fieldsteel. 2015. SuperCollider Tutorial: 15. Composing a Piece, Part I. (August 2015). Retrieved February 10, 2024 from https://youtu.be/lGs7JOOVjag?si=L9rw8zBRUCwIuvLn 
+  LOOK MUM NO COMPUTER. 2016. SYNTH BIKE 2.0 SYNTHESISER LOOK MUM NO COMPUTER. (November 2016). Retrieved February 4, 2024 from https://youtu.be/LWqImNULtao?si=kBdLbUSQCMWFtvKq
+  syverlauritzsen. Capacitive Sensing for Dummies. Retrieved February 12, 2024 from https://www.instructables.com/Capacitive-Sensing-for-Dummies/
 
 Eli Fieldsteel. 2015. SuperCollider Tutorial: 15. Composing a Piece, Part I. (August 2015). Retrieved February 10, 2024 from https://youtu.be/lGs7JOOVjag?si=L9rw8zBRUCwIuvLn 
 Eli Fieldsteel. 2017. SuperCollider Tutorial: 19. Arduino. (August 2017). Retrieved February 10, 2024 from https://www.youtube.com/watch?v=_NpivsEva5o 
